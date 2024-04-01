@@ -1,4 +1,5 @@
 o que fazer:
+
 1:
 -estoque deve adicionar, remover Produtos
 -sistema deve recuperar infos sobre um produto
